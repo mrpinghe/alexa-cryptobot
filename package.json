@@ -1,0 +1,20 @@
+{
+  "name": "alexa-cryptobot-skill",
+  "version": "0.1.0",
+  "description": "Based on skill-sample-nodejs-fact-i18n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact"
+  ],
+  "author": "mrpinghe",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "cheerio": "^0.22.0"
+  }
+}
