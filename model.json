@@ -1,0 +1,42 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetNewFactIntent",
+      "samples": [
+        "a fact",
+        "a crypto fact",
+        "a Bruce fact",
+        "a Schneier fact",
+        "tell me a fact",
+        "tell me a crypto fact",
+        "tell me a Bruce fact",
+        "tell me a Schneier fact",
+        "tell me a trivia",
+        "tell me a Bruce trivia",
+        "tell me a crypto trivia",
+        "tell me something",
+        "give me a fact",
+        "give me a crypto fact",
+        "give me a Bruce fact",
+        "give me a Schneier fact",
+        "give me a trivia",
+        "give me a Bruce trivia",
+        "give me a crypto trivia",
+        "give me something"
+      ],
+      "slots": []
+    }
+  ]
+}
